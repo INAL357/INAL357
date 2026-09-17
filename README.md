@@ -46,11 +46,9 @@ I'm **Inal Mendonca**, a developer focused on **Back-End Development with Java a
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=INAL357\&theme=dark\&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=INAL357\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
 
-## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=INAL357\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
+
 
 ---
 
