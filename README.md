@@ -44,8 +44,7 @@ I'm **Inal Mendonca**, a developer focused on **Back-End Development with Java a
 ## 📊 GitHub Stats
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=INAL357\&theme=dark\&hide_border=false)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=INAL357&theme=dark&mode=weekly&starting_year=2025)](https://git.io/streak-stats)
 
 
 
